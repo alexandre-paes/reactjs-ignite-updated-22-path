@@ -7,12 +7,12 @@ export function Sidebar() {
 		<aside className={styles.sidebar}>
 			<img
 				className={styles.cover}
-				src="https://source.unsplash.com/300x300"
+				src="https://github.com/AlexandrePaes.png"
 			/>
 
 			<div className={styles.profile}>
 				<img className={styles.avatar}
-					src="https://avatars.githubusercontent.com/u/30436251?v=4"
+					src="https://github.com/AlexandrePaes.png"
 				/>
 
 				<strong>Alexandre Mib</strong>
